@@ -10,7 +10,7 @@ class GameScene extends Phaser.Scene {
 		this.load.image('bug2', 'https://content.codecademy.com/courses/learn-phaser/physics/bug_2.png');
 		this.load.image('bug3', 'https://content.codecademy.com/courses/learn-phaser/physics/bug_3.png');
 		this.load.image('platform', 'https://content.codecademy.com/courses/learn-phaser/physics/platform.png');
-		this.load.image('codey', 'https://i.imgur.com/q4H08QX.png');
+		this.load.image('codey', 'https://content.codecademy.com/courses/learn-phaser/physics/codey.png');
 	}
 
 
